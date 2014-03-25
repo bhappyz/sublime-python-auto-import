@@ -1,0 +1,6 @@
+[
+	{
+		"caption": "Python Auto Import: Import symbol",
+		"command": "python_auto_import"
+	},
+]
